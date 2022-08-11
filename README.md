@@ -1,12 +1,12 @@
 # Yunf Cheg's Bolgs 🐍
 
-[![Build Status](https://travis-ci.com/attack-on-backend/Python.svg?branch=master)](https://travis-ci.com/github/attack-on-backend/Python) [![lang](https://img.shields.io/badge/lang-python-blue)](https://www.python.org/) [![lang](https://img.shields.io/badge/github-%E4%BB%93%E5%BA%93-%2342b983)](https://github.com/attack-on-backend/python)
+ [![lang](https://img.shields.io/badge/github-%E4%BB%93%E5%BA%93-%2342b983)](https://github.com/cyf1997)
 
 ## 介绍 🐙
 
 致力构建一个高质量的后端技术图谱 ![octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-这是一个有深度的 `Java` 系列博客 , [在线阅读](https://attack-on-backend.github.io/python/) 体验更丝滑哟 
+这是一个有深度的 `Java` 系列博客 , [在线阅读](https://cyf1997.github.io/blogs/) 体验更丝滑哟 
 
 ## 目录 🚀
 
