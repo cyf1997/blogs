@@ -196,7 +196,7 @@ Storage 目录
 上传测试
   
 ```shell
-/usr/bin/fdfs_test upload /etc/fdfs/client.conf 1234.jpg
+/usr/bin/fdfs_test  /etc/fdfs/client.conf upload 1234.jpg
 ```
 
 
