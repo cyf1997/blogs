@@ -8,6 +8,6 @@
 * MYSQL
   * 调优
   * 基础
-  	* [行列转换](/mysql/base/myqsl行列转换.md)
+  	* [行列转换](/mysql/base/msyql行列转换.md)
 
 
